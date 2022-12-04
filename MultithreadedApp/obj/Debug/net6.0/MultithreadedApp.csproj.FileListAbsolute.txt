@@ -1,0 +1,15 @@
+C:\Users\Ric\source\repos\MultithreadedApp\MultithreadedApp\bin\Debug\net6.0\MultithreadedApp.exe
+C:\Users\Ric\source\repos\MultithreadedApp\MultithreadedApp\bin\Debug\net6.0\MultithreadedApp.deps.json
+C:\Users\Ric\source\repos\MultithreadedApp\MultithreadedApp\bin\Debug\net6.0\MultithreadedApp.runtimeconfig.json
+C:\Users\Ric\source\repos\MultithreadedApp\MultithreadedApp\bin\Debug\net6.0\MultithreadedApp.dll
+C:\Users\Ric\source\repos\MultithreadedApp\MultithreadedApp\bin\Debug\net6.0\MultithreadedApp.pdb
+C:\Users\Ric\source\repos\MultithreadedApp\MultithreadedApp\obj\Debug\net6.0\MultithreadedApp.csproj.AssemblyReference.cache
+C:\Users\Ric\source\repos\MultithreadedApp\MultithreadedApp\obj\Debug\net6.0\MultithreadedApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ric\source\repos\MultithreadedApp\MultithreadedApp\obj\Debug\net6.0\MultithreadedApp.AssemblyInfoInputs.cache
+C:\Users\Ric\source\repos\MultithreadedApp\MultithreadedApp\obj\Debug\net6.0\MultithreadedApp.AssemblyInfo.cs
+C:\Users\Ric\source\repos\MultithreadedApp\MultithreadedApp\obj\Debug\net6.0\MultithreadedApp.csproj.CoreCompileInputs.cache
+C:\Users\Ric\source\repos\MultithreadedApp\MultithreadedApp\obj\Debug\net6.0\MultithreadedApp.dll
+C:\Users\Ric\source\repos\MultithreadedApp\MultithreadedApp\obj\Debug\net6.0\refint\MultithreadedApp.dll
+C:\Users\Ric\source\repos\MultithreadedApp\MultithreadedApp\obj\Debug\net6.0\MultithreadedApp.pdb
+C:\Users\Ric\source\repos\MultithreadedApp\MultithreadedApp\obj\Debug\net6.0\MultithreadedApp.genruntimeconfig.cache
+C:\Users\Ric\source\repos\MultithreadedApp\MultithreadedApp\obj\Debug\net6.0\ref\MultithreadedApp.dll
