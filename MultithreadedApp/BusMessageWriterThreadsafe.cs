@@ -8,6 +8,7 @@ namespace MultithreadedApp
 {
     public class BusMessageWriterThreadsafe
 	{
+		private readonly object locked = new object();
 		public void SendMessage()
 		{
 			SendMessageAsync();
@@ -18,15 +19,15 @@ namespace MultithreadedApp
 		// how to make this method thread safe?
 		public async Task SendMessageAsync()
 		{
-			await Task.Run(() =>
+			lock (locked)
 			{
 				Write2Buffer(_count);
+			}
 				_count++;
 				if (_count > 10)
 				{
 					Publish();
 				}
-			});
 		}
 		private void Publish()
 		{
